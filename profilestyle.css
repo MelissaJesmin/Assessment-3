@@ -1,0 +1,74 @@
+* {
+    margin: 0px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
+
+body {
+    background-color: white;
+}
+header {
+        justify-content: space-between;
+        padding: 30px;
+        color: rgb(255, 255, 255);
+        background-color: #ffb0d3;
+}
+.flex {
+    display: flex;
+    align-items: center;
+
+}
+
+h1 {
+    font-size: 25px;
+}
+
+a {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+nav {
+    width: 100px;
+    justify-content: space-between;
+}
+
+img {
+	max-width: 200px;
+    /* padding: 5px; */
+    background-color: #ffb0d3;
+    margin: 10px 10px;
+    border: 5px solid #ffb0d3 ;
+}
+
+h2{
+    margin: 10px 1px;
+    padding: 5px;
+    color: white;
+    background-color: #ffb0d3;
+}
+
+p {
+    margin: 30px 1px;
+    padding: 5px;
+    text-align: center;
+}
+
+.skills {
+    margin: 20px 1px;
+    background-color: rgb(255, 222, 227);
+    padding-bottom: 10px;
+}
+
+.interests {
+    margin: 30px 1px;
+    background-color: rgb(254, 210, 215);
+    padding-bottom: 10px;
+}
+
+.goals {
+    margin: 30px 1px;
+    background-color: rgb(254, 202, 209);
+    padding-bottom: 10px;
+}
+
